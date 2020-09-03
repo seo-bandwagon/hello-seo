@@ -1,4 +1,4 @@
-=== Hello Elementor Child ===
+=== Hello SEO, Elementor Child Theme ===
 
 Contributors: elemntor, KingYes, ariel.k, jzaltzberg, mati1000, bainternet
 Requires at least: WordPress 4.7
@@ -16,9 +16,7 @@ The Hello Elementor Child Theme is a starter blank child theme for [Hello Elemen
 
 == Description ==
 
-A basic, plain-vanilla, lightweight theme, best suited for building your site using Elementor page builder.
-
-This theme resets the WordPress environment and prepares it for smooth operation of Elementor.
+This is our fork of the Hello Child Theme for use on https://seobandwagon.com/
 
 Screenshot's images & icons are licensed under: Creative Commons (CC0), https://creativecommons.org/publicdomain/zero/1.0/legalcode
 
